@@ -19,3 +19,6 @@
 
 
 ![Screenshot (116)](https://user-images.githubusercontent.com/90818051/168877469-b89bd2ba-2917-45eb-a915-fc1378573cfc.png)
+
+
+4. When you again click on magnifier it gets smaller again.
